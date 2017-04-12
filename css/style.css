@@ -1,0 +1,27 @@
+body {
+	background-color: #333;
+	letter-spacing: 2px;
+}
+
+a:hover {
+	text-decoration: none
+}
+
+.jumbotron {
+	box-shadow: 2px 2px 2px lightblue;
+	color: white;
+	background-color: black;
+}
+
+#gold {
+	color: gold;
+	text-transform: uppercase;
+}
+#silver {
+	color: silver;
+	text-transform: uppercase;
+}
+#orange {
+	color: orange;
+	text-transform: uppercase;
+}
